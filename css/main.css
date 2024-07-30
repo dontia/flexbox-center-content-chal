@@ -20,7 +20,7 @@ body {
 }
 
 .content {
-  /* Add display: flex; and the Flexbox properties to center the "content" */
+  display: flex;
 
   /* This is a fallback for the translucent background for older browsers */
   background: #222;
