@@ -21,6 +21,8 @@ body {
 
 .content {
   display: flex;
+  justify-content: center;
+  align-items: center;
 
   /* This is a fallback for the translucent background for older browsers */
   background: #222;
