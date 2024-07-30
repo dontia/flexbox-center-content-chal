@@ -11,7 +11,7 @@ body {
 }
 
 .wrapper {
-  /* Add display: flex; and the Flexbox properties to center the "content" */
+  display: flex;
   margin: 0;
   height: 100%;
   width: 100%;
